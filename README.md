@@ -5,14 +5,9 @@
 - 📫 How to reach me: https://www.linkedin.com/in/zafor-khalid
 
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
+  <a href="https://www.linkedin.com/[zafor-khalid]" rel="nofollow noreferrer">
+[    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  </a> 
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafor-khalid&layout=dracula)](https://github.com/zafor-khalid/github-readme-stats)
 
