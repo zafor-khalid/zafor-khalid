@@ -18,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=zafor-khalid&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ### &#128214; Articles Read
-<a href="https://app.daily.dev/za4"><img src="https://api.daily.dev/devcards/643b417110374b45a65ee0c1d55e749e.png?r=2kp" width="300" alt="Zafor Khalid's Dev Card"/></a>
+<a href="https://app.daily.dev/za4"><img src="https://api.daily.dev/devcards/643b417110374b45a65ee0c1d55e749e.png?r=s22" width="300" alt="Zafor Khalid's Dev Card"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
