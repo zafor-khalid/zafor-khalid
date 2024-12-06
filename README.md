@@ -11,11 +11,6 @@
 ## &#128214; Articles Read
 <a href="https://app.daily.dev/zaforkhalid"><img src="https://api.daily.dev/devcards/v2/NyOEr5JAv3coQKypRnPv6.png?type=default&r=vyp" width="356" alt="Zafor Khalid's Dev Card"/></a>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zafor-khalid&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zafor-khalid&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zafor-khalid&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
