@@ -1,6 +1,6 @@
 # 💫 Hello This is Zafor Khalid
 ### A passionate Fullstack Software Engineer from Bangladesh
-🔭 I’m currently working as a Software Engineer at [W3 Engineers Ltd](https://w3engineers.com)
+🔭 I’m currently working as a Software Engineer at [Technonext Software Ltd](https://technonext.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zafor-khalid)
