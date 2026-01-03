@@ -1,70 +1,55 @@
-<!DOCTYPE html>
-<html class="light" lang="en"><head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>LinkedIn Banner - Zafor Khalid</title>
-<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&amp;family=Noto+Sans:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
-<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
-<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
-<script id="tailwind-config">
-        tailwind.config = {
-            darkMode: "class",
-            theme: {
-                extend: {
-                    colors: {
-                        "primary": "#137fec",
-                        "background-light": "#f6f7f8",
-                        "background-dark": "#101922",
-                    },
-                    fontFamily: {
-                        "display": ["Manrope", "sans-serif"],
-                        "body": ["Noto Sans", "sans-serif"]
-                    },
-                    borderRadius: { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" },
-                },
-            },
-        }
-    </script>
-</head>
-<body class="bg-background-light dark:bg-background-dark min-h-screen flex flex-col items-center justify-center font-display text-[#111418] dark:text-white overflow-x-hidden p-4">
-<div class="w-full max-w-[1200px] flex flex-col gap-4">
-<div class="flex justify-between items-center px-1">
-<h2 class="text-xl md:text-2xl font-bold text-[#111418] dark:text-white">Software Engineer Banner</h2>
-<span class="text-sm font-medium text-gray-500 dark:text-gray-400">1584 x 396 px</span>
-</div>
-<div class="relative w-full aspect-[4/1] rounded-xl overflow-hidden shadow-2xl group border border-gray-200 dark:border-gray-800 bg-[#0f172a]">
-<div class="absolute inset-0 bg-gradient-to-br from-[#0f172a] via-[#1e293b] to-[#0f172a]" data-alt="Abstract dark blue tech background gradient"></div>
-<div class="absolute inset-0 opacity-[0.08]" data-alt="Subtle dot grid pattern overlay" style="background-image: radial-gradient(#137fec 1px, transparent 1px); background-size: 32px 32px;"></div>
-<div class="absolute top-[-50%] right-[-10%] w-[60%] h-[200%] bg-primary/5 rounded-full blur-[100px]"></div>
-<div class="absolute bottom-[-50%] left-[20%] w-[40%] h-[150%] bg-blue-500/10 rounded-full blur-[80px]"></div>
-<div class="relative h-full w-full flex flex-col justify-center px-8 md:px-16 z-10">
-<div class="flex flex-col md:flex-row items-center md:items-start justify-between h-full py-8 md:py-12">
-<div class="flex flex-col justify-center h-full md:pl-[200px] text-center md:text-left space-y-3">
-<h1 class="text-white text-3xl md:text-5xl lg:text-6xl font-extrabold tracking-tight drop-shadow-lg">
-                            Zafor Khalid
-                        </h1>
-<div class="flex items-center justify-center md:justify-start gap-2 text-blue-200/90 font-medium text-lg md:text-xl">
-<span class="material-symbols-outlined text-[20px]">terminal</span>
-<span>Software Engineer</span>
-<span class="mx-1 opacity-50">|</span>
-<span>Backend Specialist</span>
-</div>
-<div class="flex flex-wrap justify-center md:justify-start gap-2 mt-4 max-w-2xl">
-<span class="px-3 py-1 rounded bg-blue-500/20 border border-blue-400/20 text-blue-100 text-xs md:text-sm font-medium backdrop-blur-sm">Backend Systems</span>
-<span class="px-3 py-1 rounded bg-blue-500/20 border border-blue-400/20 text-blue-100 text-xs md:text-sm font-medium backdrop-blur-sm">Microservices</span>
-<span class="px-3 py-1 rounded bg-blue-500/20 border border-blue-400/20 text-blue-100 text-xs md:text-sm font-medium backdrop-blur-sm">Go</span>
-<span class="px-3 py-1 rounded bg-blue-500/20 border border-blue-400/20 text-blue-100 text-xs md:text-sm font-medium backdrop-blur-sm">Scalable Solutions</span>
-</div>
-</div>
-<div class="hidden lg:flex flex-col gap-2 opacity-40 select-none pointer-events-none transform rotate-[-5deg] translate-y-4">
-<div class="h-2 w-32 bg-blue-400/40 rounded"></div>
-<div class="h-2 w-48 bg-blue-400/30 rounded ml-4"></div>
-<div class="h-2 w-40 bg-blue-400/30 rounded ml-4"></div>
-<div class="h-2 w-24 bg-blue-400/20 rounded"></div>
-</div>
-</div>
-</div>
-</div>
-</div>
+# 💫 Zafor Khalid
+### Backend Engineer | Golang & Distributed Systems Specialist
 
-</body></html>
+Professional Software Engineer with **4+ years of experience** architecting high-availability, cloud-native systems. Specialized in **Golang** and **Distributed Architectures**, I focus on building scalable microservices, high-performance APIs, and robust event-driven systems.
+
+🌍 **Open to Relocation (EU / UK / US) & Remote Opportunities**
+
+---
+
+### 🛠️ Professional Stack
+
+**Languages & Frameworks**
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Distributed Systems & Messaging**
+![gRPC](https://img.shields.io/badge/-gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white) ![NATS](https://img.shields.io/badge/-NATS-27AFE1?style=flat-square&logo=nats&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Asynq](https://img.shields.io/badge/-Asynq-00ADD8?style=flat-square&logo=go&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+**Infrastructure & Cloud-Native**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-FFB500?style=flat-square&logo=github-actions&logoColor=white) ![Envoy](https://img.shields.io/badge/-Envoy-60B08E?style=flat-square&logo=envoyproxy&logoColor=white) ![Kong](https://img.shields.io/badge/-Kong-003459?style=flat-square&logo=kong&logoColor=white)
+
+**Databases & Search**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)  
+
+**Observability & Quality**
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+
+---
+
+### 🚀 Career Focus
+I lead technical implementations by converting complex business requirements into reliable, production-ready microservices. My core expertise lies in:
+* **System Architecture:** Defining service boundaries and inter-service communication protocols.
+* **Backend Scalability:** Managing efficient data flows and high-concurrency event-driven patterns.
+* **Platform Reliability:** Supporting system-wide infrastructure through deployment automation and observability.
+
+---
+
+### 📂 Current Work
+🔭 **Currently at [Technonext Software Ltd](https://technonext.com)**
+Architecting the backend for **[Carrybee](https://www.linkedin.com/company/carrybee/about/)**, a high-traffic B2C courier platform. I am responsible for the end-to-end **order processing journey** and maintaining a resilient microservices ecosystem.
+
+---
+
+### 📈 Metrics & Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zafor-khalid&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zafor-khalid&theme=radical&hide_border=true" width="48%" />
+</p>
+
+### 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zafor-khalid)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaforkhalid@gmail.com)
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=zafor-khalid&icon=0&color=1" />
+</p>
