@@ -41,15 +41,12 @@ Architecting the backend for **[Carrybee](https://www.linkedin.com/company/carry
 ---
 
 ### 📈 Metrics & Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zafor-khalid&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zafor-khalid&theme=radical&hide_border=true" width="48%" />
-</p>
+<a href="https://app.daily.dev/zaforkhalid"><img src="https://api.daily.dev/devcards/v2/NyOEr5JAv3coQKypRnPv6.png?type=default&r=vyp" width="356" alt="Zafor Khalid's Dev Card"/></a>
 
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zafor-khalid)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaforkhalid@gmail.com)
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=zafor-khalid&icon=0&color=1" />
-</p>
+---
+
+[![](https://visitcount.itsvg.in/api?id=zafor-khalid&icon=0&color=1)](https://visitcount.itsvg.in)
